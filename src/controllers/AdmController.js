@@ -21,7 +21,6 @@ module.exports = {
             email,
             phone,
           });
-
           return response.json({id});
         }
         else{
